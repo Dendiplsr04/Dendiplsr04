@@ -12,7 +12,7 @@
 <h3 align="left">Hubungi saya:</h3>
 <p align="left">
 <a href="https://instagram.com/mylosopr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mylosopr" height="30" width="40" /></a> </p>
-<a href="Kirim pesan ke Dendi Palasara di WhatsApp. https://wa.me/6285934933301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="dendi" height="30" width="40" /></a> </p>
+<a href="https://wa.me/6285934933301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="dendi" height="30" width="40" /></a> </p>
 
 
 <h3 align="left">Bahasa dan Alat:</h3>
