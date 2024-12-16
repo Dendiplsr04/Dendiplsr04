@@ -1,3 +1,4 @@
+![logo](https://github.com/Dendiplsr04/Dendiplsr04/blob/e68d8a1a4bc982696922f10d698297c380ea4247/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 <h1 align="center">Hai 👋, saya Dendi Palasara</h1>
 <h2 align="center">Pengembang frontend yang bersemangat dari Indonesia</h2>
 
