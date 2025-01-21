@@ -1,27 +1,70 @@
-![logo](https://github.com/Dendiplsr04/Dendiplsr04/blob/e68d8a1a4bc982696922f10d698297c380ea4247/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
-<h1 align="center">Hai 👋, saya Dendi Palasara</h1>
-<h2 align="center">Pengembang frontend yang bersemangat dari Indonesia</h2>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisangelo.ThisIsAngelo" />
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h1 align="center">Hellow 👋😸, I'm Dendi Palasara</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dendiplsr04&label=Profile%20views&color=0e75b6&style=flat" alt="dendiplsr04" /> </p>
+<h3 align="center">A Website Development Enthusiast from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dendiplsr04" alt="dendiplsr04" /></a> </p>
+<br/>
 
-- 📫 Cara menghubungi saya **Dendiplsr@proton.me**
+<div align="center">
 
-<h3 align="left">Hubungi saya:</h3>
-<p align="left">
-<a href="https://instagram.com/mylosopr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mylosopr" height="30" width="40" /></a> </p>
-<a href="https://wa.me/6285934933301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="dendi" height="30" width="40" /></a> </p>
+💬 Ask me about *Next.js, React, Tailwind*
 
+⚡ Fun fact *Kafka is the best character in Honkai: Star Rail*
 
-<h3 align="left">Bahasa dan Alat:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" lebar="20" tinggi="20"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" lebar="20" tinggi="20"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" lebar="10" tinggi="10"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" lebar="20" tinggi="20"/> </a> </p>
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:dendipalasara21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.instagram.com/denplsr?igsh=cXJ4eHVnNGwyaHF1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-DC3755?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.tiktok.com/@shibuxstore7?_t=ZS-8tFts8h9e09&_r=1" target="_blank">
+     <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
+ <hr/>
+ 
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,redux,vite,php,mysql,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai,git,github,vercel" /><br>
+</div>
 
+<br/>
+<hr/>
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dendiplsr04&show_icons=true&locale=id&layout=compact" alt="dendiplsr04" /></p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thisisangelo/ThisIsAngelo/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dendiplsr04&show_icons=true&locale=id" alt="dendiplsr04" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dendiplsr04&" alt="dendiplsr04" /></p>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Dendiplsr04&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dendiplsr04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='buymeacoffee.com/Denplsr' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+</div>
+
+<br/>
