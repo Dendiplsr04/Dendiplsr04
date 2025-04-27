@@ -10,7 +10,7 @@
 
 💬 Ask me about *Next.js, React, Tailwind*
 
-⚡ Fun fact *Kafka is the best character in Honkai: Star Rail*
+⚡ Dive into the world of Cyber Security to ensure the company's security system *
 
  </div>
  
@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/denplsr?igsh=cXJ4eHVnNGwyaHF1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-DC3755?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.tiktok.com/@shibuxstore7?_t=ZS-8tFts8h9e09&_r=1" target="_blank">
+  <a href="https://www.tiktok.com/@seputartermux?_t=ZS-8vsX29zVICe&_r=1" target="_blank">
      <img src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
